@@ -1,0 +1,8 @@
+target/
+*.class
+.idea/
+.vscode/
+*.iml
+Task06/config/database.properties
+*.log
+*.csv
